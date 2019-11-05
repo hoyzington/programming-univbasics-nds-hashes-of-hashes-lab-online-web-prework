@@ -31,7 +31,7 @@ def naming_system
   linear[:sub_category][:sub_category][:sub_category] = PORTION_2
   linear[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
   linear[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
-  
+  linear
   
   # Remember:
   #  Kingdom

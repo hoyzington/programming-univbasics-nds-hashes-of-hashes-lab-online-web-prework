@@ -29,7 +29,7 @@ PORTION_1 = {
 def naming_system
   linear = PORTION_1
   linear[:sub_category][:sub_category][:sub_category] = PORTION_2
-  
+  linear[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
   
   
   
